@@ -1,5 +1,8 @@
-# Sobre mim:
-# 👋 Lucas Nascimento<br><br>🎓 Formado em Estatística<br>📈 Aprendendo e aplicando em projetos com Python, SQL e Power BI.  <br>🚀 Em constante aprendizado, com foco em transformar dados em informações que entregam valor
+#🪪 Lucas Nascimento
+
+**`Analista de Dados`**
+
+## 👋 Lucas Nascimento<br><br>🎓 Formado em Estatística<br>📈 Aprendendo e aplicando em projetos com Python, SQL e Power BI.  <br>🚀 Em constante aprendizado, com foco em transformar dados em informações que entregam valor
 
 
 ## 🌐 Socials:
