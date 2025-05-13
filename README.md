@@ -7,8 +7,6 @@ Olá, sou formado em estátistica, atualmente estou estudando e aprendendo tecnl
 <br>
 <br>
 
-
-
  🚀 Tecnologias que estou estudando
 
 - 📊 **Power BI** – dashboards, modelagem e análise visual de dados  
@@ -21,9 +19,7 @@ Olá, sou formado em estátistica, atualmente estou estudando e aprendendo tecnl
 
  ## 💻 Projetos
 
-
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
 | [**Análise de Indicadores do Banco Mundial**](https://github.com/LucasNascimento-LMN/Indicadores_WorldBank.git) | Exploração de dados socioeconômicos para identificar padrões globais e gerar insights estratégicos. | Python, SQL, Excel, Power BI |
 ---
 
@@ -34,8 +30,6 @@ Olá, sou formado em estátistica, atualmente estou estudando e aprendendo tecnl
 ---
 <br>
 <br>
-
-
  🌐 ***Onde me encontrar:***
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nascimento-6088662b2)[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasnm2019) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckasmnascimento@gmail.com)
