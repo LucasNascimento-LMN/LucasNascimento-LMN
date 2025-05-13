@@ -38,8 +38,9 @@ Olá, sou formado em estátistica, atualmente estou estudando e aprendendo tecnl
 
  🌐 ***Onde me encontrar:***
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lucas-nascimento-6088662b2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@lucasnm2019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckasmnascimento@gmail.com) 
-
+- 💼 [LinkedIn](linkedin.com/in/lucas-nascimento-6088662b2)
+- 📨 Email: seuemail@exemplo.com
+- ✍️ [Medium](https://medium.com/@SEU-USUARIO-MEDIUM)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
