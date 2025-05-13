@@ -38,6 +38,10 @@ Olá, sou formado em estátistica, atualmente estou estudando e aprendendo tecnl
 
  🌐 ***Onde me encontrar:***
 
+![Image](https://github.com/user-attachments/assets/7779995c-aad1-4503-8b9f-965cc319bae8)
+![Image](https://github.com/user-attachments/assets/c218198f-f302-4386-86a7-47c7c7403efd)
+![Image](https://github.com/user-attachments/assets/c8c77757-97c0-4530-97e5-6f1d7d04320d)
+
 - 💼 [LinkedIn](linkedin.com/in/lucas-nascimento-6088662b2)
 - 📨 Email: seuemail@exemplo.com
 - ✍️ [Medium](https://medium.com/@SEU-USUARIO-MEDIUM)
