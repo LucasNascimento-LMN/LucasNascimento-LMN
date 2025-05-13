@@ -24,7 +24,7 @@ Olá, sou formado em estátistica, atualmente estou estudando e aprendendo tecnl
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [**Análise de Indicadores do Banco Mundial**](https://github.com/SEU-USUARIO-GITHUB/projeto-banco-mundial) | Exploração de dados socioeconômicos para identificar padrões globais e gerar insights estratégicos. | Python, SQL, Excel, Power BI |
+| [**Análise de Indicadores do Banco Mundial**](https://github.com/LucasNascimento-LMN/Indicadores_WorldBank.git) | Exploração de dados socioeconômicos para identificar padrões globais e gerar insights estratégicos. | Python, SQL, Excel, Power BI |
 ---
 
 
